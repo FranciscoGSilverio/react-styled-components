@@ -1,6 +1,6 @@
 ### React Smart Bank:
 
-![image](https://user-images.githubusercontent.com/79937589/150580084-f1a2ceb8-4684-4ef5-9c71-316614b81664.png)
+<img src="ReadmeImages/TemaClaro.png" />
 
 <h4/> A imagem acima ilustra a tela de início do app "Smart Bank" desenvolvido em React JS durante as aulas da Alura
 
@@ -18,12 +18,17 @@
 
 ## Aplicação com tema escuro rodando: 
 
-![image](https://user-images.githubusercontent.com/79937589/150581613-cb2b9e10-bf85-4178-8fa3-d9f214a62cc6.png)
+
+<img src="ReadmeImages/TemaEscuro.png" />
 
 ---
 
 ## Visualização mobile:
 
 <div>
-  <img src="C:\Users\franc\OneDrive\ÁreadeTrabalho\Screenshot2022-01-21154049.png" alt="Visualizacao mobile"/>
+ <img 
+  width=331 
+  height=564 
+  src="ReadmeImages/VisualizacaoMobile.png"/>
 </div>
+
